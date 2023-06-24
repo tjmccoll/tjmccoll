@@ -1,5 +1,4 @@
-### Hi there 👋
-
+I am a PhD student in the [Laboratory for Quantitative Exercise Biology](https://www.sfu.ca/clarkelab-bpk.html) at Simon Fraser University where I develop mathematical models to simulate the protein signalling response in skeletal muscle following nutritional and hormonal stimulation in healthy and diseased populations.
 <!--
 **tjmccoll/tjmccoll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
