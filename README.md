@@ -1,15 +1,18 @@
 I am a PhD student in the [Laboratory for Quantitative Exercise Biology](https://www.sfu.ca/clarkelab-bpk.html) at Simon Fraser University where I develop mathematical models to simulate the protein signalling response in skeletal muscle following nutritional and hormonal stimulation in healthy and diseased populations.
-<!--
-**tjmccoll/tjmccoll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Legend:**&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/saezlab/.github/main/profile/icons/home.svg" height="16">
+&nbsp;Home page&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/saezlab/.github/main/profile/icons/r.svg" height="16">
+&nbsp;MATLAB code&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/saezlab/.github/main/profile/icons/article.svg" height="16">
+&nbsp;Article
+
+***
+
+| [<img alt="CARNIVAL" src="https://raw.githubusercontent.com/saezlab/.github/main/profile/logos/carnival.png" width="200"/>](https://saezlab.github.io/CARNIVAL) |
+| --- | 
+| **Muscle Protein Synthesis Kinetic Model** |
+| [<img src="https://raw.githubusercontent.com/saezlab/.github/main/profile/icons/home.svg" height="16">](https://github.com/tjmccoll/MuscleProteinSynthesisKineticModel)&nbsp;&nbsp;[<img src="https://raw.githubusercontent.com/saezlab/.github/main/profile/icons/r.svg" height="16">]([https://github.com/saezlab/CARNIVAL](https://github.com/tjmccoll/MuscleProteinSynthesisKineticModel/tree/main/McColl_2023_Muscle%20Protein%20Synthesis%20Kinetic%20Model_230428))&nbsp;&nbsp;[<img src="https://raw.githubusercontent.com/saezlab/.github/main/profile/icons/article.svg" height="16">](https://www.biorxiv.org/content/10.1101/2023.06.10.544441v2) | [<img src="https://raw.githubusercontent.com/saezlab/.github/main/profile/icons/home.svg" height="16">](https://saezlab.github.io/CellNOptR/)&nbsp;&nbsp;[<img src="https://raw.githubusercontent.com/saezlab/.github/main/profile/icons/r.svg" height="16">](https://github.com/saezlab/cellnopt)&nbsp;&nbsp;[<img src="https://raw.githubusercontent.com/saezlab/.github/main/profile/icons/package.svg" height="16"><sub><sup> BIOC</sup></sub>](https://bioconductor.org/packages/release/bioc/html/CellNOptR.html)&nbsp;&nbsp;[<img src="https://raw.githubusercontent.com/saezlab/.github/main/profile/icons/python.svg" height="16">](https://github.com/cellnopt/cellnopt)&nbsp;&nbsp;[<img src="https://raw.githubusercontent.com/saezlab/.github/main/profile/icons/article.svg" height="16">](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btaa561/5855133) | [<img src="https://raw.githubusercontent.com/saezlab/.github/main/profile/icons/home.svg" height="16">](https://saezlab.github.io/cosmosR/)&nbsp;&nbsp;[<img src="https://raw.githubusercontent.com/saezlab/.github/main/profile/icons/r.svg" height="16">](https://github.com/saezlab/COSMOS/)&nbsp;&nbsp;[<img src="https://raw.githubusercontent.com/saezlab/.github/main/profile/icons/package.svg" height="16"><sub><sup> BIOC</sup></sub>](https://bioconductor.org/packages/release/bioc/html/cosmosR.html)&nbsp;&nbsp;[<img src="https://raw.githubusercontent.com/saezlab/.github/main/profile/icons/article.svg" height="16">](https://europepmc.org/abstract/MED/33502086) | [<img src="https://raw.githubusercontent.com/saezlab/.github/main/profile/icons/home.svg" height="16">](https://saezlab.github.io/DoRothEA)&nbsp;&nbsp;[<img src="https://raw.githubusercontent.com/saezlab/.github/main/profile/icons/r.svg" height="16">](https://github.com/saezlab/dorothea)&nbsp;&nbsp;[<img src="https://raw.githubusercontent.com/saezlab/.github/main/profile/icons/python.svg" height="16">](https://github.com/saezlab/decoupler-py)&nbsp;&nbsp;[<img src="https://raw.githubusercontent.com/saezlab/.github/main/profile/icons/article.svg" height="16">](https://europepmc.org/abstract/MED/31340985)&nbsp;&nbsp;[<img src="https://raw.githubusercontent.com/saezlab/.github/main/profile/icons/article.svg" height="16">](https://europepmc.org/abstract/MED/29229604)&nbsp;&nbsp;[<img src="https://raw.githubusercontent.com/saezlab/.github/main/profile/icons/article.svg" height="16">](https://europepmc.org/abstract/MED/31525460) |
