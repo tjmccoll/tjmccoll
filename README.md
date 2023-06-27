@@ -3,11 +3,17 @@ I am a PhD student in the [Laboratory for Quantitative Exercise Biology](https:/
 # Tools
 
 **Legend:**&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/saezlab/.github/main/profile/icons/home.svg" height="16">
+<picture>
+  <img src="https://raw.githubusercontent.com/saezlab/.github/main/profile/icons/home.svg" height="16">
+</picture>
 &nbsp;Home page&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/tjmccoll/tjmccoll/assets/12203682/21652463-728e-4772-833d-601a71d3fdcf" height="16">
+<picture>
+  <img src="https://github.com/tjmccoll/tjmccoll/assets/12203682/21652463-728e-4772-833d-601a71d3fdcf" height="16">
+</picture>
 &nbsp;MATLAB code&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/saezlab/.github/main/profile/icons/article.svg" height="16">
+<picture>
+  <img src="https://raw.githubusercontent.com/saezlab/.github/main/profile/icons/article.svg" height="16">
+</pitcure>
 &nbsp;Article
 
 ***
