@@ -1,4 +1,4 @@
-# About
+# About me
 I am a Postdoctoral Research Fellow in the [Qurit Lab](https://www.bccrc.ca/dept/io-programs/qurit/) at BC Cancer where I develop personalized computer models ("Digital Twins") to advance precision radiopharmaceutical therapy. Previously, I completed my PhD in the [Laboratory for Quantitative Exercise Biology](https://www.sfu.ca/clarkelab-bpk.html) at Simon Fraser University where I developed mathematical models to simulate the protein signalling response in skeletal muscle following nutritional and hormonal stimulation in healthy and diseased populations.
 
 # Tools
