@@ -19,12 +19,12 @@ I am a Postdoctoral Research Fellow in the [Qurit Lab](https://www.bccrc.ca/dept
 
 ***
 
-| [<img src="https://media.github.sfu.ca/user/1053/files/4532768b-11d6-48e7-bad4-34be4f65177e" width="400"/>](https://github.com/tjmccoll/MuscleProteinSynthesisKineticModel/tree/main) |
+| [<img src="https://media.github.sfu.ca/user/1053/files/4532768b-11d6-48e7-bad4-34be4f65177e" width="300"/>](https://github.com/tjmccoll/MuscleProteinSynthesisKineticModel/tree/main) |
 | --- | 
 | **Kinetic Model of Muscle Protein Synthesis** |
 | [<img src="https://raw.githubusercontent.com/saezlab/.github/main/profile/icons/home.svg" height="16">](https://github.com/tjmccoll/MuscleProteinSynthesisKineticModel)&nbsp;&nbsp;<picture><img src="https://github.com/tjmccoll/tjmccoll/assets/12203682/21652463-728e-4772-833d-601a71d3fdcf" height="16"></picture>&nbsp;&nbsp;[<img src="https://raw.githubusercontent.com/saezlab/.github/main/profile/icons/article.svg" height="16">](https://www.biorxiv.org/content/10.1101/2023.06.10.544441v2) |
 
-| [<img src="" width="400"/>]() |
+| [<img src="" width="300"/>]() |
 | --- | 
 | **Multifactorial Cause of Anabolic Resistance** |
 | [<img src="https://raw.githubusercontent.com/saezlab/.github/main/profile/icons/home.svg" height="16">](https://github.com/tjmccoll/MultifactorialCauseOfAnabolicResistance/)&nbsp;&nbsp;<picture><img src="https://github.com/tjmccoll/tjmccoll/assets/12203682/21652463-728e-4772-833d-601a71d3fdcf" height="16"></picture>&nbsp;&nbsp;[<img src="https://raw.githubusercontent.com/saezlab/.github/main/profile/icons/article.svg" height="16">](https://www.biorxiv.org/content/10.1101/2023.06.10.544441v2) |
